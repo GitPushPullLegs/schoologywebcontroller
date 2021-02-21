@@ -1,0 +1,8 @@
+setup.py
+schoologywebcontroller/__init__.py
+schoologywebcontroller/schoologywebcontroller.py
+schoologywebcontroller.egg-info/PKG-INFO
+schoologywebcontroller.egg-info/SOURCES.txt
+schoologywebcontroller.egg-info/dependency_links.txt
+schoologywebcontroller.egg-info/requires.txt
+schoologywebcontroller.egg-info/top_level.txt
